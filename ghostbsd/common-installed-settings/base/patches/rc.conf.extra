@@ -5,6 +5,7 @@
 #
 
 hostname="livecd"
+root_rw_mount="NO"
 
 # Power saver.
 powerd_enable="YES"
